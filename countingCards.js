@@ -30,5 +30,5 @@ function cc(card) {
     // Only change code above this line
 }
 
-console.log(cc(7), cc(8), cc(9));
+// console.log(cc(7), cc(8), cc(9));
 
