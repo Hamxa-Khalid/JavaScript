@@ -9,10 +9,10 @@ function Sum(a, b) {
   return a + b;
 }
 
-const callBackSum = (a, b) => {
+const arrowSum = (a, b) => {
   return a + b;
 };
 
 console.log(nameLess(1, 2));
 console.log(Sum(2, 6));
-console.log(callBackSum(9, 3));
+console.log(arrowSum(9, 3));
