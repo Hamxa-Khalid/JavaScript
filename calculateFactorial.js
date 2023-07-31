@@ -5,5 +5,4 @@ function factorial(n) {
   else return n * factorial(n - 1);
 }
 
-let num = 1;
-console.log(factorial(num));
+console.log(factorial(4));
